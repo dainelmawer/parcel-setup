@@ -1,5 +1,5 @@
 # Parcel React Setup with HMR and CSS Modules
-I like Webpack, its super powerful, but its a headache to setup. I thought I'd give Parcel a go for this React setup. Once you bent your head around some of the more trivial concepts, it was painless to get going. While I still advocate Webpack as a bundle tool, mainly because of its highly customizable interface, Parcel does a great job of making things super easy and blazing fast. :ghost:
+I like Webpack, its super powerful, but its a headache to setup. I thought I'd give Parcel a go for this React setup. Once you bend your head around some of the more trivial concepts, it was painless to get going. While I still advocate Webpack as a bundle tool, mainly because of its highly customizable interface, Parcel does a great job of making things super easy and blazing fast. :ghost:
 
 ## :straight_ruler: Development
 To get started with development:
