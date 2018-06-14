@@ -21,34 +21,34 @@ yarn build
 
 ### src
 
-    - All development work should take place here.
-    - Add components to the components folder
-    - Use `index.js` for components so that you dont need to important single JS files
-    - Name component CSS after the component.
+- All development work should take place here.
+- Add components to the components folder
+- Use `index.js` for components so that you dont need to important single JS files
+- Name component CSS after the component.
 
 ### dist
 
-    - `dist` is created on the fly. any images, js, css and html are added to this folder with hashed keys for cache busting.
-    - `dist` should be deployed to the server.
+- `dist` is created on the fly. any images, js, css and html are added to this folder with hashed keys for cache busting.
+- `dist` should be deployed to the server.
 
 # Important Files
 
 ### .postcssrc
 
-    - Enables CSS Module Support
-    - Configures Autoprefixer
-    - Feel free to add more PostHTML plugins here
+- Enables CSS Module Support
+- Configures Autoprefixer
+- Feel free to add more PostHTML plugins here
 
 ### .posthtmlrc
 
-    - Configures a standard PostHTML image plugin that sets width and height on images where `width="auto"`
-    - Feel free to add more PostHTML plugins here
+- Configures a standard PostHTML image plugin that sets width and height on images where `width="auto"`
+- Feel free to add more PostHTML plugins here
 
 ### .browserslistrc
 
-    - Configures what browsers PostCSS / Autoprexifer should support
-    - Use [http://browserl.ist/](http://browserl.ist/) to grab easy configurations for this file.
+- Configures what browsers PostCSS / Autoprexifer should support
+- Use [http://browserl.ist/](http://browserl.ist/) to grab easy configurations for this file.
 
 ### .babelrc
 
-    - Configures Babel transpiler plugins, currently it supports `react` as well as `react-hot-loader`
+- Configures Babel transpiler plugins, currently it supports `react` as well as `react-hot-loader`
