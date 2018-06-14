@@ -6,7 +6,6 @@ To get started with development:
 
 ```
 yarn start
-
 ```
 This will spin up a development server at `http://localhost:1234` - Hot Module Replacement and CSS Modules ready.
 
@@ -16,6 +15,5 @@ To build assets for the server:
 
 ```
 yarn build
-
 ```
 
