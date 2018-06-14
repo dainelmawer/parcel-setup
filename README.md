@@ -29,21 +29,21 @@ It can sometimes take a while on the first run to bundle assets.
 yarn build
 ```
 
-# Important Folders
+# :file_folder: Important Folders
 
-### src
+### :nut_and_bolt: src
 
 - All development work should take place here.
 - Add components to the components folder
 - Use `index.js` for components so that you dont need to important single JS files
 - Name component CSS after the component.
 
-### dist
+### :wrench: dist
 
 - `dist` is created on the fly. any images, js, css and html are added to this folder with hashed keys for cache busting.
 - `dist` should be deployed to the server.
 
-# Important Files
+# :page_with_curl: Important Files
 
 ### .postcssrc
 
@@ -64,4 +64,6 @@ yarn build
 ### .babelrc
 
 - Configures Babel transpiler plugins, currently it supports `react` as well as `react-hot-loader`
+
+Have a :beer:
 
