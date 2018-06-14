@@ -7,7 +7,11 @@ To get started with development:
 ```
 yarn start
 ```
-This will spin up a development server at `http://localhost:1234` - Hot Module Replacement and CSS Modules ready.
+This will spin up a development server at `http://localhost:1234` - Hot Module Replacement and CSS Modules ready. This should open up your default browser and display:
+
+[Image of default page for Parcel app](https://i.imgur.com/gIOaFNm.png)
+
+It can sometimes take a while on the first run to bundle assets.
 
 ## Production
 
@@ -52,3 +56,4 @@ yarn build
 ### .babelrc
 
 - Configures Babel transpiler plugins, currently it supports `react` as well as `react-hot-loader`
+
