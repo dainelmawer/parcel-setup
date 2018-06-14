@@ -1,7 +1,7 @@
 # Parcel React Setup with HMR and CSS Modules
 I like Webpack, its super powerful, but its a headache to setup. I thought I'd give Parcel a go for this React setup. Once you bent your head around some of the more trivial concepts, it was painless to get going. While I still advocate Webpack as a bundle tool, mainly because of its highly customizable interface, Parcel does a great job of making things super easy and blazing fast. :ghost:
 
-## Development
+## :straight_ruler: Development
 To get started with development:
 
 :clipboard: Clone down the repository
@@ -21,7 +21,7 @@ _This will spin up a development server at `http://localhost:1234` - Hot Module 
 
 It can sometimes take a while on the first run to bundle assets.
 
-## Production
+## :gem: Production
 
 :hammer: To build assets for the server:
 
