@@ -4,6 +4,12 @@ I like Webpack, its super powerful, but its a headache to setup. I thought I'd g
 ## Development
 To get started with development:
 
+:clipboard: Clone down the repository
+
+```
+git clone https://github.com/dainemawer/parcel-setup.git my-new-project
+```
+
 ```
 yarn start
 ```
